@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAU7LuDEFotUCOa5OA5jgcWwAAAAACAAAAAAADZgAAwAAAABAAAADJG3Exx7lkTWL1t16DgKquAAAAAASAAACgAAAAEAAAAMCXGWMjYQLg5DT7qoKPji2AAAAAKuS2k9Pp/0rp6D/jC+/3Cp1FxgHW0fTnN3heHjAFrIxOB0Gkj2GV0Pb9cCJGXDgpax2kAJAz6/rkKn877l2pj1xVSyuEQECh9jWYK7N/fIV5HPbPq5D+A4ev5/vtWh1CZg7y/It3orsKV0vpezojN1kesf8oewoNRoFPcGSjpbcUAAAAsC7idV8qpQMYLy2cBILJLuzCVME=</EncryptedPassword>
+    <_PublishTargetUrl>F:\ApiGatewayPublished</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Fusion">
+      <Value>Server=WIN-907F2IJ90N4\SQLEXPRESS;Database=Fuse;User Id=sa;password=Se1ect32</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
